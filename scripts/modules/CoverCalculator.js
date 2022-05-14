@@ -740,7 +740,7 @@ class Cover{
     if(cover == 0) return;
 
     const effectData = {
-      changes : ["rwak", "rsak", "mwak", "msak"].map(s => ({ key : `data.bonuses.${s}.attack`, mode : CONST.ACTIVE_EFFECT_MODES.ADD , value })),
+      changes : ["rwak", "rsak", "mwak", "msak"].map(s => ({ key : `data.bonuses.${s}.attack`, mode : CONST.ACTIVE_EFFECT_MODES.DOWNGRADE , value })),
       icon : MODULE[NAME].coverData[cover].icon,
       label : `DnD5e Helpers - ${label}`,
       flags : { [MODULE.data.name] : { 
