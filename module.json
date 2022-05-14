@@ -20,39 +20,39 @@
       }
     ],
     "esmodules": [
-        "/scripts/helpers.js",
-        "/scripts/plugins/wild-magic-surge.js"
+        "blob/master/scripts/helpers.js",
+        "/blob/master/scripts/plugins/wild-magic-surge.js"
     ],
     "languages": [
       {
         "lang": "en",
         "name": "English",
-        "path": "lang/en.json"
+        "path": "blob/master/lang/en.json"
       },{
         "lang": "es",
         "name": "Spanish",
-        "path": "lang/es.json"
+        "path": "blob/master/lang/es.json"
       },{
         "lang": "fr",
         "name": "French",
-        "path": "lang/fr.json"
+        "path": "blob/master/lang/fr.json"
       },{
         "lang": "pt-BR",
         "name": "Brazilian Portugues",
-        "path": "lang/pt-BR.json"
+        "path": "blob/master/lang/pt-BR.json"
       },{
         "lang": "ko",
         "name": "Korean",
-        "path": "lang/ko.json"
+        "path": "blob/master/lang/ko.json"
       },{
         "lang": "ja",
         "name": "日本語",
-        "path": "lang/ja.json"
+        "path": "blob/master/lang/ja.json"
       }
     ],
     "styles": [
-      "/styles/dnd5e-helpers.css",
-      "/styles/action-dialog-app.css"
+      "blob/master/styles/action-dialog-app.css",
+      "blob/master/styles/action-dialog-app.css"
     ] ,
     "socket": true,
     "url": "https://github.com/brookflok/dnd5e-helpers",
