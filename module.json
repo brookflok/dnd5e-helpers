@@ -20,42 +20,42 @@
       }
     ],
     "esmodules": [
-        "blob/master/scripts/helpers.js",
-        "/blob/master/scripts/plugins/wild-magic-surge.js"
+        "/scripts/helpers.js",
+        "/scripts/plugins/wild-magic-surge.js"
     ],
     "languages": [
       {
         "lang": "en",
         "name": "English",
-        "path": "blob/master/lang/en.json"
+        "path": "lang/en.json"
       },{
         "lang": "es",
         "name": "Spanish",
-        "path": "blob/master/lang/es.json"
+        "path": "lang/es.json"
       },{
         "lang": "fr",
         "name": "French",
-        "path": "blob/master/lang/fr.json"
+        "path": "lang/fr.json"
       },{
         "lang": "pt-BR",
         "name": "Brazilian Portugues",
-        "path": "blob/master/lang/pt-BR.json"
+        "path": "lang/pt-BR.json"
       },{
         "lang": "ko",
         "name": "Korean",
-        "path": "blob/master/lang/ko.json"
+        "path": "lang/ko.json"
       },{
         "lang": "ja",
         "name": "日本語",
-        "path": "blob/master/lang/ja.json"
+        "path": "lang/ja.json"
       }
     ],
     "styles": [
-      "blob/master/styles/action-dialog-app.css",
-      "blob/master/styles/action-dialog-app.css"
+      "/styles/dnd5e-helpers.css",
+      "/styles/action-dialog-app.css"
     ] ,
     "socket": true,
-    "url": "https://github.com/brookflok/dnd5e-helpers",
+    "url": "https://github.com/trioderegion/dnd5e-helpers",
     "manifest": "",
     "download": "",
     "minimumCoreVersion": "9",
