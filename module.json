@@ -3,16 +3,12 @@
     "title": "DnD5e Helpers",
     "description": "Little helpers for little tasks.",
     "system": ["dnd5e", "sw5e"],
-    "version": "3.0.1-alpha",
-    "author": "honeybadger, Kandashi, kekilla, brookFlok",
+    "version": "3.0.0-alpha",
+    "author": "honeybadger, Kandashi, kekilla",
     "authors": [
       {
         "name": "honeybadger",
         "url": "https://github.com/trioderegion"
-      },
-      {
-        "name": "brookflok",
-        "url": "https://github.com/brookflok"
       },
       {
         "name": "Kandashi",
@@ -59,7 +55,7 @@
       "/styles/action-dialog-app.css"
     ] ,
     "socket": true,
-    "url": "https://github.com/brookflok/dnd5e-helpers/",
+    "url": "https://github.com/brookflok/dnd5e-helpers",
     "manifest": "",
     "download": "",
     "minimumCoreVersion": "9",
